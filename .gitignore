@@ -254,3 +254,5 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+misc assets/
